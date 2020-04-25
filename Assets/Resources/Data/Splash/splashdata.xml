@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	"path" - image file. 
+	"showtime" - time in seconds to show splash screen
+	"canskip" - if it is set to "false" player cannot skip it by clicking.
+	
+	Add an additional line below to insert extra splash screens in the order shown.
+-->
+<root>
+	<!--SplashData path="SplashScreen" showtime="3" canskip="true" /-->
+</root>

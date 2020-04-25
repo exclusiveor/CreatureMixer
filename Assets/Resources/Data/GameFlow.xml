@@ -1,0 +1,48 @@
+<data>
+<screens>
+	<!-- 
+	type = "0" простая форма
+	type = "1" основное фоновое меню
+	
+	fader = "0" dont show fader at all (for example interractable tutorials)
+	fader = "1" transparent fader (for full screen windows) - by DEFAULT
+	fader = "2" visible fader
+	-->
+	<screen name="StartGameScene" preloadNextScene="" DesignResolutionWidth="1080" DesignResolutionHeight="1920" DesignMatchWidthOrHeight="1"/>
+	
+	<screen name="GameScene" preloadNextScene="" DesignResolutionWidth="1080" DesignResolutionHeight="1920" DesignMatchWidthOrHeight="1">
+		<ui name="GAME_MAIN_MENU" type="1"/>
+		<ui name="OPTIONS_WINDOW" type="0" fader="2"/>
+		<ui name="STATISTIC_WINDOW" type="0" fader="2"/>
+		<ui name="TUTOR_WINDOW" type="0" fader="2"/>
+    	<!--<ui name="NOMOVE_WINDOW" type="0" creation="dynamic" />-->
+		<ui name="HELP_WINDOW" type="0" path = "" creation="dynamic" fader="2"/>
+		<ui name="CONFIRM_WINDOW" type="0" fader="2"/>
+		<ui name="LEVEL_SELECTION_WINDOW" type="0"/>
+		<ui name="LEVELED_STATISTIC_WINDOW" type="0" fader="2"/>
+		<!--<ui name="SOME_WINDOW_1" type="0" path = "" creation="static"/> -->
+		<!--<ui name="SOME_WINDOW_2" type="0" path = "" creation="dynamic"/> -->
+    </screen>
+	
+	<screen name="GameSceneWide" preloadNextScene="" DesignResolutionWidth="2112" DesignResolutionHeight="1188" DesignMatchWidthOrHeight="1">
+		<ui name="GAME_MAIN_MENU" type="1"/>
+		<ui name="OPTIONS_WINDOW" type="0" fader="2"/>
+		<ui name="STATISTIC_WINDOW" type="0" fader="2"/>
+		<ui name="TUTOR_WINDOW" type="0" fader="2"/>
+    	<!--<ui name="NOMOVE_WINDOW" type="0" creation="dynamic" />-->
+		<ui name="HELP_WINDOW" type="0" path = "" creation="dynamic" fader="2"/>
+		<ui name="CONFIRM_WINDOW" type="0" fader="2"/>
+		<ui name="LEVEL_SELECTION_WINDOW" type="0"/>
+		<ui name="LEVELED_STATISTIC_WINDOW" type="0" fader="2"/>
+		<!--<ui name="SOME_WINDOW_1" type="0" path = "" creation="static"/> -->
+		<!--<ui name="SOME_WINDOW_2" type="0" path = "" creation="dynamic"/> -->
+    </screen>
+
+	<screen name="SplashScene" preloadNextScene="GameScene" DesignResolutionWidth="1080" DesignResolutionHeight="1920" DesignMatchWidthOrHeight="0">
+		<ui name="SPLASH_WINDOW" type="1"/>
+	</screen>
+
+</screens>
+<transitions>
+</transitions>
+</data>

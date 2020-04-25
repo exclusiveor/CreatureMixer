@@ -1,0 +1,7 @@
+<data scale="1">
+<layer name="tutor.TutorFon" y="0" x="0"/>
+<layer name="tutor.Tutor" y="0" x="0"/>
+<layer name="tutor.ButtonOk" y="-150" x="0"/>
+<layer name="inventory.InventoryButtonLeft" x="-320" y="0"/>
+<layer name="inventory.InventoryButtonRight" x="320" y="0"/>
+</data>

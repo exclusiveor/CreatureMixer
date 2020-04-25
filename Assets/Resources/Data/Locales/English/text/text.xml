@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<root>
+	<!-- text formatting HTML tags   ==>  (new bold:: &lt;b&gt;TEXT&lt;/b&gt;)  ( font color:: &lt;color=#663333ff&gt;SAMPLE TEXT&lt;/color&gt; ) -->
+	<!-- http://docs.unity3d.com/Manual/StyledText.html -->
+	<!-- http://docs.unity3d.com/ScriptReference/SystemLanguage.html -->
+	<!-- <String id="buy">&lt;color=#AAFFAAFF&gt;BUY&lt;/color&gt;</String> -->
+	<!-- Tutors texts -->
+	<String id="click">click</String>
+	<String id="tap">tap</String>
+	
+	<String id="Level">Level</String>
+	<String id="UsePowerup">Use Powerup</String>
+	<String id="BestScore">Best: </String>
+	
+	<String id="T_1">Complete 2 levels to unlock "&lt;color=#FFD600FF&gt;Endless&lt;/color&gt;" mode</String>
+	<String id="T_2">Don't forget to use &lt;color=#FFD600FF&gt;powerups&lt;/color&gt;</String>
+	<String id="T_3">Now choose a piece to destroy or click on power-up again to cancel</String>
+	<String id="T_4">Click on piece to destroy all pieces of the same color or click on button again to cancel</String>
+	<String id="T_5">Finish the level until the moves have run out.</String>
+</root>

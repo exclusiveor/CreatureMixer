@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<root>
+	<!-- text formatting HTML tags   ==>  (new bold:: &lt;b&gt;TEXT&lt;/b&gt;)  ( font color:: &lt;color=#663333ff&gt;SAMPLE TEXT&lt;/color&gt; ) -->
+	<!-- http://docs.unity3d.com/Manual/StyledText.html -->
+	<!-- http://docs.unity3d.com/ScriptReference/SystemLanguage.html -->
+	<!-- <String id="buy">&lt;color=#AAFFAAFF&gt;BUY&lt;/color&gt;</String> -->
+	<!-- Tutors texts -->
+	<String id="click">cliquez</String>
+	<String id="tap">tapez</String>
+	
+	<String id="Level">Niveau</String>
+	<String id="UsePowerup">Utiliser le booster</String>
+	<String id="BestScore">Le meilleur: </String>
+	
+	<String id="T_1">Terminez 2 niveaux pour débloquer le mode "&lt;color=#FFD600FF&gt;Sans fin&lt;/color&gt;"</String>
+	<String id="T_2">Ne pas oublier d'utiliser &lt;color=#FFD600FF&gt;boosters&lt;/color&gt;</String>
+	<String id="T_3">Choisissez une pièce à détruire ou cliquez à nouveau sur power-up pour annuler</String>
+	<String id="T_4">Cliquez sur la pièce pour détruire toutes les pièces de la même couleur ou cliquez à nouveau sur le bouton pour annuler</String>
+	<String id="T_5">Terminez le niveau jusqu'à ce que les mouvements soient terminés.</String>
+</root>

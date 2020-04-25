@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SplashAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 796dea6aee98c5b4eb914a70d3fa51f7, type: 3}
+    bindAsDefault: 0
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bf6d6ce7a819cb2479755f3795f4928b, type: 3}
+  - {fileID: 21300000, guid: d0e9bc997fb946745993660343dd0f90, type: 3}
+  - {fileID: 21300000, guid: 5d6267cbabb10184e99c024a99764612, type: 3}
+  - {fileID: 21300000, guid: fb16e0fd12086ef478efb064f8fe4735, type: 3}
+  - {fileID: 21300000, guid: 4b7b1b5e069f53843b37ccac16c33be0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Splash_wide
+  - Logo
+  - SplashGameLogo
+  - Logo800x450
+  - SplashBackground
+  m_Tag: SplashAtlas
+  m_IsVariant: 0

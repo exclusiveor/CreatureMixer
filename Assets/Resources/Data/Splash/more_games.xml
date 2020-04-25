@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Change to <show>false</show> to disable the "More Games" button on the main menu. This enables the Playcademy logo in that spot instead.
+The Playcademy logo can also then be disabled by setting <showlogo>false</showlogo>, in which case that area will just be empty on the main menu. -->
+<!-- Point the below URL's to the game pages on your own site. -->
+<!-- Texts are found in text.xml file, search for "MoreGamesBanner" to find the strings if you need to change them. -->
+
+<Dzs>
+	<show>true</show>
+	<showlogo>true</showlogo> <!-- Only shows if More Games button is disabled. Image can be replaced (logo.png in this directory). -->
+	<link path="http://www.jewelmatch.net/" /> <!-- Jewel Match 4 URL -->
+	<link path="http://www.playcademy.com/gamepage.php?id=12" /> <!-- Runefall URL -->
+	<link path="http://www.playcademy.com/gamepage.php?id=10" /> <!-- Tales of Lagoona 2 URL -->
+
+</Dzs>

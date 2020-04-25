@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trophies>
+	<trophy id="AchieveXpoints_0_IOG" 					reward="0"  issingle="true" 			param="1000" />
+	<trophy id="AchieveXpoints_1_IOG" 					reward="0"  issingle="true" 			param="5000" />
+	<trophy id="AchieveXpoints_2_IOG" 					reward="0"  issingle="true" 			param="15000" />
+	<trophy id="AchieveXpoints_3_IOG" 					reward="0"  issingle="true" 			param="20000" />
+	<trophy id="AchieveXpoints_4_IOG" 					reward="0"  issingle="true"			param="25000" />
+	<trophy id="ReachXpoints_0_COM" 					reward="0"  issingle="false" 		param="50000" />
+	<trophy id="ReachXpoints_1_COM" 					reward="0"  issingle="false" 		param="100000" />
+	<trophy id="ReachXpoints_2_COM" 					reward="0"  issingle="false" 		param="500000" />
+	<trophy id="ReachXpoints_3_COM" 					reward="0"  issingle="false" 		param="1000000" />
+	<trophy id="ReachXpoints_4_COM" 					reward="0"  issingle="false" 		param="10000000" />
+	<trophy id="MadeXmoves_0_IOG" 						reward="0"  issingle="false" 		param="200" />
+	<trophy id="MadeXmoves_1_IOG" 						reward="0"  issingle="false" 		param="300" />
+	<trophy id="MadeXmoves_2_IOG" 						reward="0"  issingle="false" 		param="400" />
+	<trophy id="MadeXmoves_3_IOG" 						reward="0"  issingle="false" 		param="500" />
+	<trophy id="MadeXmoves_4_IOG" 						reward="0"  issingle="false" 		param="600" />
+	<trophy id="DestroyXpipesWithChain_0_IOG" 			reward="0"  issingle="true" 			param="5" /> <!-- some comment -->
+	<trophy id="DestroyXpipesWithChain_1_IOG" 			reward="0"  issingle="true"			param="8" />
+	<trophy id="DestroyXpipesWithChain_2_IOG" 			reward="0"  issingle="true"			param="12" />
+	<trophy id="DestroyXpipesWithChain_3_IOG" 			reward="0"  issingle="true"			param="16" />
+	<trophy id="DestroyXpipesWithChain_4_IOG" 			reward="0"  issingle="true"			param="20" />
+	<trophy id="DestroyXpipesWithChain_0_COM" 			reward="0"  issingle="false"			param="100" />
+	<trophy id="DestroyXpipesWithChain_1_COM" 			reward="0"  issingle="false"			param="300" />
+	<trophy id="DestroyXpipesWithChain_2_COM" 			reward="0"  issingle="false"			param="1000" />
+	<trophy id="DestroyXpipesWithChain_3_COM" 			reward="0"  issingle="false"			param="3000" />
+	<trophy id="DestroyXpipesWithChain_4_COM" 			reward="0"  issingle="false"			param="10000" />
+	<trophy id="CreateTileWithLevelX_0" 				reward="0"  issingle="true"			param="3" />
+	<trophy id="CreateTileWithLevelX_1" 				reward="0"  issingle="true"			param="4" />
+	<trophy id="CreateTileWithLevelX_2" 				reward="0"  issingle="true"			param="5" />
+	<trophy id="CreateTileWithLevelX_3" 				reward="0"  issingle="true"			param="6" />
+	<trophy id="CreateTileWithLevelX_4" 				reward="0"  issingle="true"			param="7" />
+	<trophy id="HaveXblockersAtLevel_0" 				reward="0"  issingle="true"			param="5" />
+	<trophy id="HaveXblockersAtLevel_1" 				reward="0"  issingle="true"			param="8" />
+	<trophy id="HaveXblockersAtLevel_2" 				reward="0"  issingle="true"			param="12" />
+	<trophy id="HaveXblockersAtLevel_3" 				reward="0"  issingle="true"			param="16" />
+	<trophy id="HaveXblockersAtLevel_4" 				reward="0"  issingle="true"			param="20" />
+	<trophy id="GetAllOtherTrophies" 					reward="0"  issingle="true" 			param="1" />
+</Trophies>
+<!-- PlayMoreThan5hoursCumulative -->
+<!-- ViewEntireCredits -->
+
+	

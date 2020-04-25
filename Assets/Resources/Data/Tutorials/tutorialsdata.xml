@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopItems>
+	<item id="1" type="ui" x="0" y="0" isarrow="true" align="top"/>
+	<item id="2" type="scroll" x="24" y="21" isarrow="true" align="auto"/>
+</ShopItems>

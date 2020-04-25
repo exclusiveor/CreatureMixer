@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Management
+  - PrefabCache
+  - MatchManager
+  - GameBoard
+  - QueuePanel
+  - SequencePanel
+  - UICanvas
+  - ExitCanvas
+  - StarsPanel
+  - MovesPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Trophies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cells
+    uniqueID: 594934309
+    locked: 0
+  - name: Tiles
+    uniqueID: 522776305
+    locked: 0
+  - name: Blockers
+    uniqueID: 1738528681
+    locked: 0
+  - name: Borders
+    uniqueID: 4096421485
+    locked: 0
+  - name: Chips
+    uniqueID: 2965891339
+    locked: 0
+  - name: Grid_embelishments
+    uniqueID: 2458634253
+    locked: 0
+  - name: Grid_embelishments_overlay
+    uniqueID: 2281881087
+    locked: 0
+  - name: Embelishments_new
+    uniqueID: 2595316611
+    locked: 0
+  - name: IceChain
+    uniqueID: 971328201
+    locked: 0
+  - name: NewFallingCells
+    uniqueID: 367734617
+    locked: 0
+  - name: Veins
+    uniqueID: 3093149589
+    locked: 0
+  - name: Chests
+    uniqueID: 2848925285
+    locked: 0
+  - name: Obstacles_1
+    uniqueID: 1646164971
+    locked: 0
+  - name: Obstacles_2
+    uniqueID: 491537623
+    locked: 0
+  - name: TopEffects
+    uniqueID: 2305319199
+    locked: 0
+  - name: UnderUIEffects
+    uniqueID: 2702501513
+    locked: 0
+  - name: UI
+    uniqueID: 2665828479
+    locked: 0
+  - name: UIEffects
+    uniqueID: 2820514619
+    locked: 0

@@ -1,0 +1,399 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844e8406378d1844a86612f9c4b8d218, type: 3}
+  m_Name: Level_60
+  m_EditorClassIdentifier: 
+  Id: 0
+  MinMovesCount: 25
+  W: 5
+  H: 5
+  StartStates:
+  - x: 0
+    y: 0
+    pt: 1
+    p: 2
+    c: 0
+  - x: 1
+    y: 0
+    pt: 0
+    p: -1
+    c: -1
+  - x: 2
+    y: 0
+    pt: 1
+    p: 2
+    c: 1
+  - x: 3
+    y: 0
+    pt: 1
+    p: 2
+    c: 4
+  - x: 4
+    y: 0
+    pt: 1
+    p: 1
+    c: 4
+  - x: 0
+    y: 1
+    pt: 1
+    p: 2
+    c: 2
+  - x: 1
+    y: 1
+    pt: 1
+    p: 2
+    c: 0
+  - x: 2
+    y: 1
+    pt: 1
+    p: 1
+    c: 3
+  - x: 3
+    y: 1
+    pt: 1
+    p: 2
+    c: 2
+  - x: 4
+    y: 1
+    pt: 1
+    p: 2
+    c: 3
+  - x: 0
+    y: 2
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 2
+    pt: 1
+    p: 2
+    c: 1
+  - x: 2
+    y: 2
+    pt: 1
+    p: 1
+    c: 3
+  - x: 3
+    y: 2
+    pt: 1
+    p: 2
+    c: 2
+  - x: 4
+    y: 2
+    pt: 1
+    p: 1
+    c: 4
+  - x: 0
+    y: 3
+    pt: 1
+    p: 2
+    c: 0
+  - x: 1
+    y: 3
+    pt: 1
+    p: 2
+    c: 2
+  - x: 2
+    y: 3
+    pt: 1
+    p: 1
+    c: 3
+  - x: 3
+    y: 3
+    pt: 1
+    p: 1
+    c: 3
+  - x: 4
+    y: 3
+    pt: 1
+    p: 2
+    c: 3
+  - x: 0
+    y: 4
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 4
+    pt: 1
+    p: 2
+    c: 1
+  - x: 2
+    y: 4
+    pt: 1
+    p: 2
+    c: 0
+  - x: 3
+    y: 4
+    pt: 1
+    p: 2
+    c: 1
+  - x: 4
+    y: 4
+    pt: 1
+    p: 3
+    c: 4
+  NeededStates:
+  - x: 0
+    y: 0
+    pt: 1
+    p: 4
+    c: 0
+  - x: 1
+    y: 0
+    pt: 0
+    p: -1
+    c: -1
+  - x: 2
+    y: 0
+    pt: 0
+    p: -1
+    c: -1
+  - x: 3
+    y: 0
+    pt: 0
+    p: -1
+    c: -1
+  - x: 4
+    y: 0
+    pt: 0
+    p: -1
+    c: -1
+  - x: 0
+    y: 1
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 1
+    pt: 1
+    p: 4
+    c: 1
+  - x: 2
+    y: 1
+    pt: 0
+    p: -1
+    c: -1
+  - x: 3
+    y: 1
+    pt: 0
+    p: -1
+    c: -1
+  - x: 4
+    y: 1
+    pt: 0
+    p: -1
+    c: -1
+  - x: 0
+    y: 2
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 2
+    pt: 0
+    p: -1
+    c: -1
+  - x: 2
+    y: 2
+    pt: 1
+    p: 4
+    c: 2
+  - x: 3
+    y: 2
+    pt: 0
+    p: -1
+    c: -1
+  - x: 4
+    y: 2
+    pt: 0
+    p: -1
+    c: -1
+  - x: 0
+    y: 3
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 3
+    pt: 0
+    p: -1
+    c: -1
+  - x: 2
+    y: 3
+    pt: 0
+    p: -1
+    c: -1
+  - x: 3
+    y: 3
+    pt: 1
+    p: 4
+    c: 3
+  - x: 4
+    y: 3
+    pt: 0
+    p: -1
+    c: -1
+  - x: 0
+    y: 4
+    pt: 0
+    p: -1
+    c: -1
+  - x: 1
+    y: 4
+    pt: 0
+    p: -1
+    c: -1
+  - x: 2
+    y: 4
+    pt: 0
+    p: -1
+    c: -1
+  - x: 3
+    y: 4
+    pt: 0
+    p: -1
+    c: -1
+  - x: 4
+    y: 4
+    pt: 1
+    p: 4
+    c: 4
+  CorrectMoves:
+  - FromX: 1
+    FromY: 4
+    ToX: 1
+    ToY: 1
+    MoveType: 2
+  - FromX: 3
+    FromY: 1
+    ToX: 3
+    ToY: 3
+    MoveType: 2
+  - FromX: 2
+    FromY: 1
+    ToX: 1
+    ToY: 1
+    MoveType: 2
+  - FromX: 2
+    FromY: 0
+    ToX: 2
+    ToY: 1
+    MoveType: 1
+  - FromX: 0
+    FromY: 3
+    ToX: 0
+    ToY: 0
+    MoveType: 2
+  - FromX: 2
+    FromY: 3
+    ToX: 0
+    ToY: 3
+    MoveType: 2
+  - FromX: 4
+    FromY: 0
+    ToX: 4
+    ToY: 4
+    MoveType: 2
+  - FromX: 4
+    FromY: 3
+    ToX: 3
+    ToY: 3
+    MoveType: 2
+  - FromX: 2
+    FromY: 1
+    ToX: 3
+    ToY: 1
+    MoveType: 2
+  - FromX: 3
+    FromY: 2
+    ToX: 2
+    ToY: 2
+    MoveType: 2
+  - FromX: 0
+    FromY: 2
+    ToX: 2
+    ToY: 2
+    MoveType: 2
+  - FromX: 0
+    FromY: 1
+    ToX: 0
+    ToY: 2
+    MoveType: 1
+  - FromX: 1
+    FromY: 2
+    ToX: 2
+    ToY: 2
+    MoveType: 1
+  - FromX: 3
+    FromY: 4
+    ToX: 1
+    ToY: 4
+    MoveType: 2
+  - FromX: 3
+    FromY: 0
+    ToX: 4
+    ToY: 0
+    MoveType: 2
+  - FromX: 4
+    FromY: 2
+    ToX: 4
+    ToY: 0
+    MoveType: 2
+  - FromX: 2
+    FromY: 2
+    ToX: 2
+    ToY: 1
+    MoveType: 2
+  - FromX: 4
+    FromY: 1
+    ToX: 3
+    ToY: 1
+    MoveType: 1
+  - FromX: 3
+    FromY: 1
+    ToX: 3
+    ToY: 2
+    MoveType: 2
+  - FromX: 1
+    FromY: 3
+    ToX: 1
+    ToY: 2
+    MoveType: 1
+  - FromX: 1
+    FromY: 0
+    ToX: 0
+    ToY: 0
+    MoveType: 2
+  - FromX: 1
+    FromY: 2
+    ToX: 1
+    ToY: 1
+    MoveType: 1
+  - FromX: 1
+    FromY: 1
+    ToX: 1
+    ToY: 0
+    MoveType: 1
+  - FromX: 2
+    FromY: 4
+    ToX: 2
+    ToY: 3
+    MoveType: 1
+  - FromX: 2
+    FromY: 3
+    ToX: 3
+    ToY: 3
+    MoveType: 2
+  BlockersCount: 0
+  HolesCount: 0
+  MaxMovesCount: 0
+  DividesPercentage: 0
